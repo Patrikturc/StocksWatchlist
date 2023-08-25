@@ -1,0 +1,15 @@
+<project xmlns="Stock Market Multi Tool">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Candlestick.chart</groupId>
+  <artifactId>Market.tool</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+        <dependency>
+            <groupId>jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.0.13</version>
+        </dependency>
+    </dependencies>
+ 
+</project>
